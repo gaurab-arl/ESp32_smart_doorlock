@@ -92,6 +92,7 @@ https://dl.espressif.com/dl/package_esp32_index.json
 ---
 
 # 🎮 System Operation
+```
 Default Password : 1212
 
 Keypad Functions
@@ -113,7 +114,7 @@ Changing Password
 Motion Detection
 The PIR sensor will detect motion and trigger:
     A brief beep from the buzzer
-
+```
 --- 
 
 # 🔧 Troubleshooting
@@ -144,6 +145,7 @@ esp32-security-system/
 ├── README.md                  # This file
 ├── ....                       # Other files
 └── drivers/                   # Required drivers 
+```
 ---
 
 ## 🔌 Driver Links
